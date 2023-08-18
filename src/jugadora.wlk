@@ -1,4 +1,6 @@
 import personajes.*
+import armas.*
+import elementos.*
 
 object luisa{
     var personajeActivo
