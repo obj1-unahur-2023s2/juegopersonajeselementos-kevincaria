@@ -3,7 +3,7 @@ object ballesta{
 
     method potencia() = 4
 
-    method estaCargada = flechas>0
+    method estaCargada() = flechas > 0
 
     method usar(){
         flechas--
